@@ -1,0 +1,16 @@
+{
+    "Server": "http://localhost:5897",
+    "StaticServer": "",
+    "StaticResourceVersion": "1574213872706",
+    "RuntimeMode": "dev",
+    "LogLevel": "debug",
+    "ShowSQL": false,
+    "SessionSecret": "",
+    "SessionMaxAge": 86400,
+    "SQLite": "",
+    "MySQL": "root:root@(localhost:3306)/finance?charset=utf8mb4&parseTime=True&loc=Local",
+    "StaticRoot": "",
+    "Port": "5897",
+    "AxiosBaseURL": "/api",
+    "MockServer": "http://localhost:8888"
+}
